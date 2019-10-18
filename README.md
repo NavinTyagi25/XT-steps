@@ -18,4 +18,4 @@ Test cases covered functional/action/reducer
 
 ### Done by
 
-Shiv Singh
+Navin Tyagi
